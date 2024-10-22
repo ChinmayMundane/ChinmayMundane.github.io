@@ -1,14 +1,14 @@
 github_users:
-  - ChinmayMundane
-  
+  - torvalds
+  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - ChinmayMundane/Image_segmentation
-  - ChinmayMundane/-HolA-Bot
-  - ChinmayMundane/Offroad-Nav
-  - ChinmayMundane/Autonomous_Driving 
-  - ChinmayMundane/RL_Basics 
-  - ChinmayMundane/Multi-agent-Reinforcement-Learning-ECS-427-627
-
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

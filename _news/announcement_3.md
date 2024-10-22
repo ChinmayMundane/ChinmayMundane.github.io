@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 02/2023
+date: 2016-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Finalist at the IEEE Robosoft 2023 Competition for “In-pipe locomotion” challenge
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
