@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ChinmayMundane
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ChinmayMundane/Image_segmentation
+  - ChinmayMundane/-HolA-Bot
+  - ChinmayMundane/Offroad-Nav
+  - ChinmayMundane/Autonomous_Driving 
+  - ChinmayMundane/RL_Basics
+  - ChinmayMundane/multi_car_racing
+  - ChinmayMundane/Multi-agent-Reinforcement-Learning-ECS-427-627
+  - ChinmayMundane/CAD-CAM-Lab 
+  
+
+  
