@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Final Year Undergraduate, VJTI
 
 profile:
   align: right
@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Chinmay Mundane, a final year undergraduate student at the Department of Production Engineering, [VJTI](https://vjti.ac.in/) Mumbai. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also a Visiting researcher at [Multi-Robot Autonomy Laboratory](https://moonlab.iiserb.ac.in/), IISER Bhopal advised by [Prof. P.B Sujit](https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en) and researcher at [NUS](https://www.marmotlab.org/bio.html), singapore. Previously, I have worked with [Prof. Arpita Sinha](https://in.linkedin.com/in/drarpitasinha) at IIT Bombay on intersection management of autonomous vehicles, [Prof. Faruk Kazi](https://in.linkedin.com/in/dr-faruk-kazi-vjti) at VJTI on developing a pipe traversing biometric robot. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are in the domain of Autonomous Driving, Computer Vision, Learning and Reinforcement Learning. My current research works are on integrating safety for the navigation of autonomous vehicles and perception of off-road autonomous vehicles.
+When I am not doing the above, I prefer to read books, write poetry, or play piano.  
