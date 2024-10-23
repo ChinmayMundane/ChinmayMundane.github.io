@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 10/2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Paper on Multi Robot Task Allocation Submitted to [AAMAS 25](https://aamas2025.org/)
