@@ -23,10 +23,4 @@ This was done on simulation and was simplified into 3 parts (or tasks)
 </div>
 
 
-here's a video for implementation
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/p2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
