@@ -16,11 +16,16 @@ We made a custom snake robot capable of traversing to the pipes of varied size.
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/p4_2.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
+    
+</div>
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/p4_3.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-    
 </div>
+
+
 
 To view complete videos and pictures of robots view here - https://drive.google.com/drive/folders/1q7q2Xs3sNE6jc-0U2JL219fPN2HmtAOd?usp=sharing
 
