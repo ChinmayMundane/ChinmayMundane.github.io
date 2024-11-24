@@ -13,7 +13,7 @@ giscus_comments: false
 
 Most of the work in autonomous navigation in offroad terrain involves thoeretical novelties without any proper hardware setup. Only some labs have access to hardware setup but that means they would have to test their algorithms on hardware again and again without any safety guarantees. This could be prevented by using simulation but there is no offroad environment in any simulation software.
 
-TO solve this, I have tried to come up with offroad simulation environments for testing and validating path planning and RL algorithms. For this, I have tried multiple open source terrains but could only use one.  
+TO solve this, I have tried to come up with offroad simulation environments for testing and validating path planning and RL algorithms. For this, I have tried multiple open source terrains but could only use one. *All these environments are made for Gazebo(& ROS) so that it is easy to implement the methods in hardware from simulation.*
 
 
 
