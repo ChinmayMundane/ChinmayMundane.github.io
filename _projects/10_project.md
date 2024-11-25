@@ -47,4 +47,4 @@ Now, this is a good environment but it also has some downsides. So I have made o
     </div>
 </div>
 
-This is just one of the prototype I built and I will be trying to made some more diverse terrains and then integrate it to some of the path planning and RL methods I have been implementing. Do let me know if anyone has any suggestions or something. 
+This is just one of the prototype I built and I will be making more diverse terrains and then integrate it to some of the path planning and RL methods I have been implementing. Do let me know if anyone has any suggestions or something. 
