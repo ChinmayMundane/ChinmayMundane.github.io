@@ -3,8 +3,8 @@ layout: post
 title: Coffee, and Conversations
 date: 2024-12-15 17:57:00
 description: our journey in Theoretical Computer Science at IIT Delhi
-tags: IIT Delhi
-categories: experience
+tags: formatting code
+categories: sample-posts
 featured: true
 ---
 
