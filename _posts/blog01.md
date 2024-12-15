@@ -5,7 +5,7 @@ date: 2024-12-15 17:57:00
 description: our journey in Theoretical Computer Science at IIT Delhi
 tags: IIT Delhi
 categories: experience
-map: true
+featured: true
 ---
 
 Strange title for a blog, isn’t it? But it manages to sum up our(at least my) experience quite well. A friend of mine told me about this Theoretical Computer Science (TCS) winter school at IIT Delhi, and I thought, “Why not?” I was curious about the topics they were offering and thought it would be nice to dive into the theory behind them. Plus, who wouldn’t want to see IIT Delhi :) 
@@ -34,7 +34,7 @@ The lecture were designed to be more generalized to the students and easy to fol
 
 we also had an excursion with our faculty mentors, visiting the National Museum of Art Gallery, followed by lunch nearby where we continued chatting and relaxing. On the final day, there was a presentation on allocation algorithms, focusing on mixed instances of divisible and indivisible goods, as well as allocations for chores.
 
-Overall, I thoroughly enjoyed the winter school. It was not only fun but also intellectually stimulating to think about open problems alongside the faculty and fellow participants. If you're considering attending, I highly recommend it — also be ready for many engaging discussions, new learning experiences and ofc - delhi winters :)
+Overall, I thoroughly enjoyed the winter school. It was not only fun but also intellectually stimulating to think about open problems alongside the faculty and fellow participants. So if you're considering attending, I highly recommend it — also be ready for many engaging discussions, new learning experiences and ofc - delhi winters :)
 
 
 
