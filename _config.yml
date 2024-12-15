@@ -132,8 +132,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: my blogs
-blog_description: a simple attempt at writing something
+blog_name: My blogs
+blog_description: My attempt at writing something
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
